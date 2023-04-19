@@ -1,21 +1,21 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: China Targets Less Than 16-Month Pendency for Invention Patents by End of 2023
+subtitle: The Work Guidelines demonstrate China's commitment to enhancing its intellectual property system.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: The Work Guidelines demonstrate China's commitment to enhancing its intellectual property system.
 
 # Link this post with a project
 projects: []
 
-# Date published
-date: '2020-12-13T00:00:00Z'
+# # Date published
+# date: '2020-12-13T00:00:00Z'
 
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
+# # Date updated
+# lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -23,25 +23,33 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Michael Wu**](https://unsplash.com/photos/FzcaoEPneU8)'
   focal_point: ''
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
+# authors:
+#   - admin
+#   - 吳恩達
 
-tags:
-  - Academic
-  - 开源
+# tags:
+#   - Academic
+#   - 开源
 
-categories:
-  - Demo
-  - 教程
+# categories:
+#   - Demo
+#   - 教程
 ---
 
-```python
+China is pushing to speed up the examination of invention patent applications. According to the latest "[Work Guidelines](https://www.cnipa.gov.cn/art/2023/2/23/art_55_182259.html)" issued by the China National Intellectual Property Administration (CNIPA) on February 22, 2023, the agency intends to reduce the average time it takes to make a final decision on an invention patent, known as patent pendency, to 16 months or less by the end of 2023.  
+
+The CNIPA notice did not disclose the current pendency period for invention patents. However, according to a [similar release](http://www.gov.cn/zhengce/zhengceku/2021-05/12/content_5605973.htm) from two years ago, the average pendency by the end of 2020 was 20 months. The CNIPA aimed to reduce that to 18.5 months in 2021. The CNIPA likely achieved this goal in 2021 and made further progress in 2022 despite facing various challenges.    
+
+By comparison, the U.S. Patent and Trademark Office (USPTO) currently reports an average total pendency of [25.9 months](https://www.uspto.gov/dashboard/patents/pendency.html) for invention patents as of February 2023. That number was 23.4 months in mid-2020, highlighting how application backlogs have increased over the past two years in the U.S.
+
+The CNIPA "Work Guidelines" outline a series of performance targets and metrics for reducing application backlogs and improving patent quality. In addition to faster invention patent examination, the CNIPA aims to increase the "accuracy rate" of final dispositions to over 93%, and keep trademark application pendency to within 7 months on average, with a 97% pass rate for substantive examination spot checks.   The guidelines demonstrate China's commitment to enhancing its intellectual property system. If achieved, a sub-16-month average pendency for invention patents would likely propel China into one of the fastest IP offices in the world. The targets set an ambitious course for the CNIPA over the next year.
+
+<!-- ```python
 import libr
 print('hello')
 ```
@@ -107,4 +115,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. -->

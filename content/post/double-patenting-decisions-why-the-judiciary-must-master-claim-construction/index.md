@@ -1,21 +1,21 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: "Double Patenting Decisions: Why the Judiciary Must Master Claim Construction"
+subtitle: A case that illustrates China's need to deepen judicial patent expertise and maintain high-level patent appeal review
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A case that illustrates China's need to deepen judicial patent expertise and maintain high-level patent appeal review
 
 # Link this post with a project
 projects: []
 
-# Date published
-date: '2020-12-13T00:00:00Z'
+# # Date published
+# date: '2020-12-13T00:00:00Z'
 
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
+# # Date updated
+# lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -23,25 +23,46 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Birmingham Museums Trust**](https://unsplash.com/photos/p00MgXaa6as)'
   focal_point: ''
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
+# authors:
+#   - admin
+#   - 吳恩達
 
-tags:
-  - Academic
-  - 开源
+# tags:
+#   - Academic
+#   - 开源
 
-categories:
-  - Demo
-  - 教程
+# categories:
+#   - Demo
+#   - 教程
 ---
 
-```python
+Article 9 of the Patent Law of China provides that only one patent may be granted for a single invention, resembling the U.S. concept of statutory or “same invention” type double patenting. China does not recognize obviousness-type double patenting.
+
+The idea of “same invention” is key to double patenting. 
+
+An invention is defined by each patent claim. Though related, each claim represents a separate invention. To determine double patenting, construe each claim individually based on scope of protection sought. If claim scopes differ, no double patenting exists - even if patents share a title, specification or filing date. 
+
+In a recent ruling [(2021)最高法知民终1458号](https://www.hnipd.com/sbsxq_329284.html), China's Supreme People’s Court (SPC) overturned a decision by the Intermediate People's Court of Shijiazhuang (capital of the Hebei Province), which wrongly found double patenting between Wanjie Intelligent Technology's [invention patent](https://patents.google.com/patent/CN103392754B/en) (one claim) and [utility model patent](https://patents.google.com/patent/CN203416761U/en) (14 claims). 
+
+The invention patent's claim 1 protects solution A+B+C+D+E+F+G+J+...+O. The utility model patent has an independent claim 1 and 13 dependent claims, e.g.:
+- Claim 2: A+B+C
+- Claim 3: A+B+C+D
+- Claim 4: A+B+C+D+E
+- ...
+- Claim 14: A+B+C+D+E+G+J
+
+No utility model patent claim has the same scope as the invention patent claim. The patents do not claim the "same invention."
+
+However, the lower court wrongly compared the invention patent's sole claim to the combined 14 utility model patent claims. Each claim represents a separate invention, so combining them fails to construe each claim individually based on scope of protection sought as required. The SPC confirmed double patenting requires identical claim scope. By overturning the flawed lower court ruling, it protected the patentee's rights, clarified China's double patenting analysis, and upheld policies incentivizing innovation. 
+
+This case illustrates China's need to deepen judicial patent expertise and [maintain high-level patent appeal review](https://www.worldtrademarkreview.com/regionindustry-guide/china-managing-the-ip-lifecycle/2023/article/lessons-the-case-law-of-chinas-ip-appeals-court). The SPC's oversight and education can help avoid mistakes like combining separate claims, but progress requires time and commitment. There is always room for improvement, but if China rises to meet this need, its future as an IP powerhouse will shine bright.
+
+<!-- ```python
 import libr
 print('hello')
 ```
@@ -107,4 +128,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. -->

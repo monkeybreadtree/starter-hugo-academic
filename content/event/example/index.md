@@ -1,4 +1,7 @@
 ---
+# Is this an unpublished draft?
+draft: true
+
 title: Example Talk
 
 event: Wowchemy Conference

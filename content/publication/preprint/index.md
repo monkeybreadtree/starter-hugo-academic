@@ -1,4 +1,7 @@
 ---
+# Is this an unpublished draft?
+draft: true
+
 title: "An example preprint / working paper"
 authors:
 - admin
