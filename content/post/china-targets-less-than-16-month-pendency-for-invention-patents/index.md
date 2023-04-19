@@ -8,8 +8,8 @@ summary: The Work Guidelines demonstrate China's commitment to enhancing its int
 # Link this post with a project
 projects: []
 
-# # Date published
-# date: '2020-12-13T00:00:00Z'
+# Date published
+date: 2023-04-16
 
 # # Date updated
 # lastmod: '2020-12-13T00:00:00Z'

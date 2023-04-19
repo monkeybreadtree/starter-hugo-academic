@@ -8,8 +8,8 @@ summary: A case that illustrates China's need to deepen judicial patent expertis
 # Link this post with a project
 projects: []
 
-# # Date published
-# date: '2020-12-13T00:00:00Z'
+# Date published
+date: 2023-04-18
 
 # # Date updated
 # lastmod: '2020-12-13T00:00:00Z'

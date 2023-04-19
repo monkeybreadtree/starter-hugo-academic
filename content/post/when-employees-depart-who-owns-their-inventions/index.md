@@ -8,8 +8,8 @@ summary: How China’s Courts Determine IP Rights After Termination of Employmen
 # Link this post with a project
 projects: []
 
-# # Date published
-# date: '2020-12-13T00:00:00Z'
+# Date published
+date: 2023-04-17
 
 # # Date updated
 # lastmod: '2020-12-13T00:00:00Z'
