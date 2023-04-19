@@ -24,7 +24,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**Michael Wu**](https://unsplash.com/photos/FzcaoEPneU8)'
-  focal_point: ''
+  focal_point: Smart
   placement: 2
   preview_only: false
 
