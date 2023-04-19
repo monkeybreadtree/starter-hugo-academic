@@ -49,10 +49,10 @@ An invention is defined by each patent claim. Though related, each claim represe
 
 In a recent ruling [(2021)最高法知民终1458号](https://www.hnipd.com/sbsxq_329284.html), China's Supreme People’s Court (SPC) overturned a decision by the Intermediate People's Court of Shijiazhuang (capital of the Hebei Province), which wrongly found double patenting between Wanjie Intelligent Technology's [invention patent](https://patents.google.com/patent/CN103392754B/en) (one claim) and [utility model patent](https://patents.google.com/patent/CN203416761U/en) (14 claims). 
 
-The invention patent's claim 1 protects solution A+B+C+D+E+F+G+J+...+O. The utility model patent has an independent claim 1 and 13 dependent claims, e.g.:
-- Claim 2: A+B+C
-- Claim 3: A+B+C+D
-- Claim 4: A+B+C+D+E
+The invention patent's claim 1 protects solution A+B+C+D+E+F+G+J+...+O (each letter represents a different feature). The utility model patent has an independent claim 1 and 13 dependent claims, e.g.:
+- Claim 1: A+B+C
+- Claim 2: A+B+C+D
+- Claim 3: A+B+C+D+E
 - ...
 - Claim 14: A+B+C+D+E+G+J
 
