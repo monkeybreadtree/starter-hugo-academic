@@ -1,9 +1,9 @@
 ---
 title: "Lost in Translation: How Imprecise Contract Terms Led to a Million-Dollar Software Licensing Dispute"
-subtitle: The case provides an optimistic outlook on China’s improving IP protections, but it highlights the importance of careful drafting and translation for contracts across languages.
+subtitle: The case provides an optimistic outlook on China’s improving IP protections, while highlighting the importance of careful drafting and translation for contracts across languages.
 
 # Summary for listings and search engines
-summary: The case provides an optimistic outlook on China’s improving IP protections, but it highlights the importance of careful drafting and translation for contracts across languages.
+summary: The case provides an optimistic outlook on China’s improving IP protections, while highlighting the importance of careful drafting and translation for contracts across languages.
 
 # Link this post with a project
 projects: []
@@ -43,17 +43,17 @@ image:
 
 With the rapid development of technologies such as computer software and the Internet, Chinese courts are gaining more experience in applying laws to handle IP disputes arising from new technologies. A recent case adjudicated by the Guangzhou Intellectual Property Court demonstrates the court’s pragmatic approaches in interpreting software licensing contracts and determining copyright infringement.
 
-In Softspeed v. Minth ((2019)粤73知民初1519号), [Softspeed](https://www.qad.com/about/news/-/room/read/2016/softspeed-consultant-group-distributes-qad-cloud-erp-in-china) sued [Minth Group](https://www.minthgroup.com/?lang=en) for allegedly exceeding its ERP software license scope of rights. Under their 2013 contract, Minth Group purchased 478 “许可证” (licenses) but the type was not expressly specified. The contract had two English words “named user” but did not provide a definition. If the contract was entirely in English, the term "named user" would probably be sufficiently clear to those in the software industry. However, the inclusion of only a few English words in an otherwise Chinese contract did not seem to resolve uncertainty.
+In Softspeed v. Minth ((2019)粤73知民初1519号), [Softspeed](https://www.qad.com/about/news/-/room/read/2016/softspeed-consultant-group-distributes-qad-cloud-erp-in-china) sued [Minth Group](https://www.minthgroup.com/?lang=en) for allegedly exceeding its ERP software license. Under their 2013 contract, Minth Group purchased 478 “许可证” (licenses) but the type was not expressly specified. 
 
-Two common types of software licenses are named user license, authorizing designated individuals, and concurrent user license, limiting maximum simultaneous users regardless of identity. A named user license can only be used by one person, while a concurrent user license can be used by different people one at a time. For ERP software, named user licensing and per-user charges are typical.
+Two common types of software licenses in the softwary industry are named user license, authorizing designated individuals, and concurrent user license, limiting maximum simultaneous users regardless of identity. A named user license can only be used by one person, while a concurrent user license can be used by different people one at a time. For ERP software, named user licensing and per-user charges are typical.
 
-Lacking express clarification, the Guangzhou Intellectual Property Court took a stance favoring the software copyright holder’s interests. The court interpreted “许可证” and “named user” based on industry practices and software specifications, finding the license was per-named user.
+Notably, the 2013 contract had a two-word English phrase “named user” following the Chinese term “许可证” but lacked a definition or explanation. The inclusion of this limited English phrasing in an otherwise Chinese contract did not seem sufficient to resolve uncertainty over the type of the license. Lacking express clarification, the Guangzhou Intellectual Property Court took a stance favoring the software copyright holder’s interests. The court interpreted “许可证” and “named user” based on industry practices and software specifications, finding the license was per-named user. 
 
 Minth Group admitted installing the software on its server, providing login credentials to affiliates, and allowing over 1,000 different users remote access over two years. Despite Minth Group’s claims of broad access rights, the court ruled Minth Group had exploited a named user license into de facto concurrent licensing by exceeding its allowed number of users, infringing Softspeed’s copyright.
 
-The case signals Chinese courts’ ability to interpret technology contracts and apply laws equitably. Overall, it provides an optimistic outlook on China’s improving IP protections. 
+The case signals Chinese courts’ ability to interpret technology contracts and apply laws equitably. Overall, it provides an optimistic outlook on China’s improving IP protections. However, the case highlights the importance of careful drafting and translation for contracts across languages. 
 
-However, the case highlights the importance of careful drafting and translation for contracts across languages. The contract was ambiguous enough for Minth Group to claim it believed concurrent user licensing was intended and allowed broad access. This indicates the contract likely did not convey the licensing model Softspeed, as IP holder and software provider, would have implemented. Contracts require precision to avoid confusion and enforceability issues, especially for complex technologies. The experience highlights the need for meticulously localizing contracts to match industry standards and objectives.
+The contract was ambiguous enough for Minth Group to claim it believed concurrent user licensing was intended and allowed broad access. This indicates the contract likely did not convey the licensing model Softspeed, as IP holder and software provider, would have implemented. Contracts require precision to avoid confusion and enforceability issues, especially for complex technologies. The experience highlights the need for meticulously localizing contracts to match industry standards and objectives.
 
 <!-- ```python
 import libr
